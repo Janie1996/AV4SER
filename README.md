@@ -21,7 +21,7 @@ git clone https://github.com/Janie1996/AV4SER.git
 You can create an anaconda environment with:
 
 ```
-conda env create -f environment.yml
+conda env create -f environment.yaml
 conda activate AV4SER
 ```
 

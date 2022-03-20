@@ -55,7 +55,7 @@ Coming soon ...
 
 
 
-If you have questions, feel free to contact [Jie Wei](weijie_xjtu@stu.xjtu.edu.cn)
+If you have questions, feel free to contact weijie_xjtu@stu.xjtu.edu.cn
 
 ## Acknowledgements
 
